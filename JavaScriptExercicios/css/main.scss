@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    .box{
+        padding: 10px 20px;
+        margin: 20px;
+        background-color: rgb(233, 233, 233);
+        box-shadow: 4px 4px 2px darkslategray;
+        border-radius: 5px;
+        width: 20%;
+    }
+}
